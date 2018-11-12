@@ -1,0 +1,29 @@
+{
+  "name": "wechat-minigameserver",
+  "version": "1.0.0",
+  "description": "node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixxix/Wechat-MiniGameServer.git"
+  },
+  "keywords": [
+    "node.js",
+    "wechate",
+    "minigame",
+    "websocket"
+  ],
+  "author": "lixxix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lixxix/Wechat-MiniGameServer/issues"
+  },
+  "homepage": "https://github.com/lixxix/Wechat-MiniGameServer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ws": "^6.1.0"
+  }
+}
